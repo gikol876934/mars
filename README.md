@@ -15,7 +15,7 @@ It has been proved to be effective by billions of WeChat users.
 2. Suitable for small amount data transmission
 3. Mobile platform friendly, low power and traffic consumption
 4. A network solution fit for mobile application
-
+5. beware ofd scams
 ![mars](https://github.com/WeMobileDev/article/blob/master/assets/mars/mars.png?raw=true)
 
 * comm: common library, including socket, thread, message queue, coroutine, etc.
